@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1560493218622">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1560493577027">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="3832706567" ref="douan"/>
@@ -48,9 +48,9 @@
     <file name="douan-favicon.ico" crc="229625077" ref="douaninfo"/>
     <file name="modere-favicon.ico" crc="229625077" ref="modereinfo"/>
   </folder>
-  <file name="index.html" crc="172652622" seo="true" mt="1560493171349" redirect="true"/>
-  <file name="douan.html" crc="4149363252" seo="true" mt="1560493179243" redirect="true"/>
-  <file name="modere.html" crc="4177732753" seo="true" mt="1560493183882" redirect="true"/>
-  <file name="douaninfo.html" crc="3821918866" seo="true" mt="1560493188402" redirect="true"/>
-  <file name="modereinfo.html" crc="408093230" seo="true" mt="1560493193339" redirect="true"/>
+  <file name="index.html" crc="4267135072" seo="true" mt="1560493503702" redirect="true"/>
+  <file name="douan.html" crc="142383774" seo="true" mt="1560493514151" redirect="true"/>
+  <file name="modere.html" crc="4204237450" seo="true" mt="1560493554640" redirect="true"/>
+  <file name="douaninfo.html" crc="107718802" seo="true" mt="1560493521008" redirect="true"/>
+  <file name="modereinfo.html" crc="252346140" seo="true" mt="1560493541591" redirect="true"/>
 </manifest>
