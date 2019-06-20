@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1561062887563">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1561064889266">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="douan.css" crc="323810483" ref="douan"/>
-    <file name="index.css" crc="455931818" ref="index"/>
-    <file name="modere.css" crc="4288212873" ref="modere"/>
-    <file name="aboutinfo.css" crc="4099505982" ref="aboutinfo"/>
-    <file name="douaninfo.css" crc="417827342" ref="douaninfo"/>
-    <file name="modereinfo.css" crc="4128702325" ref="modereinfo"/>
+    <file name="douan.css" crc="4231017645" ref="douan"/>
+    <file name="index.css" crc="21768012" ref="index"/>
+    <file name="modere.css" crc="4158079042" ref="modere"/>
+    <file name="aboutinfo.css" crc="344129959" ref="aboutinfo"/>
+    <file name="douaninfo.css" crc="3861537939" ref="douaninfo"/>
+    <file name="modereinfo.css" crc="4132782499" ref="modereinfo"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
@@ -27,18 +27,18 @@
     <file name="каталог-douan-favicon.ico" crc="229625077" ref="douan"/>
     <file name="blank.gif" crc="4208392903" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
     <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="11-u6994-fr.png" crc="400549448" ref="douan:modere:douaninfo:modereinfo:aboutinfo"/>
+    <file name="11-u6994-fr.png" crc="400549448" ref="douan:modere:douaninfo:modereinfo:aboutinfo:index"/>
     <file name="вставленное изображение 200x250.jpg" crc="4066226089" seo="true" ref="douan"/>
     <file name="heart.png" crc="117585526" seo="true" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
     <file name="каталог-modere-favicon.ico" crc="229625077" ref="modere"/>
     <file name="вставленное изображение 200x247.jpg" crc="4185678352" seo="true" ref="modere"/>
-    <file name="вставленное изображение 200x2502.jpg" crc="3983861223" seo="true" ref="modere"/>
-    <file name="вставленное изображение 200x2503.jpg" crc="4259974216" seo="true" ref="modere"/>
-    <file name="вставленное изображение 200x2504.jpg" crc="132742421" seo="true" ref="modere"/>
-    <file name="вставленное изображение 215x250.jpg" crc="338051427" seo="true" ref="modere:index"/>
-    <file name="вставленное изображение 215x2502.jpg" crc="3767550585" seo="true" ref="modere:index"/>
-    <file name="вставленное изображение 215x2503.jpg" crc="3951686645" seo="true" ref="modere:index"/>
-    <file name="вставленное изображение 215x2504.jpg" crc="41937300" seo="true" ref="modere:index"/>
+    <file name="вставленное изображение 200x2502.jpg" crc="3764023549" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x2503.jpg" crc="4185076975" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x2504.jpg" crc="34475653" seo="true" ref="douan"/>
+    <file name="вставленное изображение 215x250.jpg" crc="303787321" seo="true" ref="modere"/>
+    <file name="вставленное изображение 215x2502.jpg" crc="4101683569" seo="true" ref="modere"/>
+    <file name="вставленное изображение 215x2503.jpg" crc="3897496166" seo="true" ref="modere"/>
+    <file name="вставленное изображение 215x2504.jpg" crc="430199164" seo="true" ref="modere"/>
     <file name="вставленное изображение 215x2505.jpg" crc="4211451511" seo="true" ref="modere"/>
     <file name="вставленное изображение 215x2506.jpg" crc="4284186580" seo="true" ref="modere"/>
     <file name="вставленное изображение 215x2507.jpg" crc="3781316277" seo="true" ref="modere"/>
@@ -72,12 +72,22 @@
     <file name="about-favicon.ico" crc="229625077" ref="aboutinfo"/>
     <file name="вставленное изображение 637x439.jpg" crc="4183091576" seo="true" ref="aboutinfo"/>
     <file name="вставленное изображение 750x453.jpg" crc="4195641782" seo="true" ref="aboutinfo"/>
-    <file name="11-u18050-fr.png" crc="400549448" ref="index"/>
+    <file name="вставленное изображение 200x2505.jpg" crc="527910093" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x2506.jpg" crc="477574257" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x2507.jpg" crc="9489962" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x2508.jpg" crc="4089936539" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x2509.jpg" crc="3983861223" seo="true" ref="modere"/>
+    <file name="вставленное изображение 200x25010.jpg" crc="4259974216" seo="true" ref="modere"/>
+    <file name="вставленное изображение 200x25011.jpg" crc="132742421" seo="true" ref="modere"/>
+    <file name="вставленное изображение 215x25027.jpg" crc="338051427" seo="true" ref="index"/>
+    <file name="вставленное изображение 215x25028.jpg" crc="3767550585" seo="true" ref="index"/>
+    <file name="вставленное изображение 215x25029.jpg" crc="3951686645" seo="true" ref="index"/>
+    <file name="вставленное изображение 215x25030.jpg" crc="41937300" seo="true" ref="index"/>
   </folder>
-  <file name="douan.html" crc="3942183646" seo="true" mt="1561061874096" redirect="true"/>
-  <file name="modere.html" crc="4237933118" seo="true" mt="1561061857062" redirect="true"/>
-  <file name="douaninfo.html" crc="9673061" seo="true" mt="1561060952112" redirect="true"/>
-  <file name="modereinfo.html" crc="150225913" seo="true" mt="1561060939975" redirect="true"/>
-  <file name="index.html" crc="4202110923" seo="true" mt="1561062842153" redirect="true"/>
-  <file name="aboutinfo.html" crc="206576527" seo="true" mt="1561061811217" redirect="true"/>
+  <file name="douan.html" crc="465035873" seo="true" mt="1561064850330" redirect="true"/>
+  <file name="modere.html" crc="3884562614" seo="true" mt="1561063281813" redirect="true"/>
+  <file name="douaninfo.html" crc="4266562475" seo="true" mt="1561063301919" redirect="true"/>
+  <file name="modereinfo.html" crc="437071800" seo="true" mt="1561063310974" redirect="true"/>
+  <file name="index.html" crc="4087444632" seo="true" mt="1561063239808" redirect="true"/>
+  <file name="aboutinfo.html" crc="4122831191" seo="true" mt="1561063321188" redirect="true"/>
 </manifest>
