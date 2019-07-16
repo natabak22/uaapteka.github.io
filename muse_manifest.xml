@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1561064889266">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1563304910916">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="douan.css" crc="4231017645" ref="douan"/>
+    <file name="douan.css" crc="374020894" ref="douan"/>
     <file name="index.css" crc="21768012" ref="index"/>
     <file name="modere.css" crc="4158079042" ref="modere"/>
     <file name="aboutinfo.css" crc="344129959" ref="aboutinfo"/>
@@ -76,15 +76,45 @@
     <file name="вставленное изображение 200x2506.jpg" crc="477574257" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x2507.jpg" crc="9489962" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x2508.jpg" crc="4089936539" seo="true" ref="douan"/>
-    <file name="вставленное изображение 200x2509.jpg" crc="3983861223" seo="true" ref="modere"/>
-    <file name="вставленное изображение 200x25010.jpg" crc="4259974216" seo="true" ref="modere"/>
-    <file name="вставленное изображение 200x25011.jpg" crc="132742421" seo="true" ref="modere"/>
+    <file name="вставленное изображение 200x2509.jpg" crc="360635000" seo="true" ref="modere:douan"/>
+    <file name="вставленное изображение 200x25010.jpg" crc="4230381931" seo="true" ref="modere:douan"/>
+    <file name="вставленное изображение 200x25011.jpg" crc="201388624" seo="true" ref="modere:douan"/>
     <file name="вставленное изображение 215x25027.jpg" crc="338051427" seo="true" ref="index"/>
     <file name="вставленное изображение 215x25028.jpg" crc="3767550585" seo="true" ref="index"/>
     <file name="вставленное изображение 215x25029.jpg" crc="3951686645" seo="true" ref="index"/>
     <file name="вставленное изображение 215x25030.jpg" crc="41937300" seo="true" ref="index"/>
+    <file name="вставленное изображение 200x25012.jpg" crc="396464754" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25013.jpg" crc="521442299" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25014.jpg" crc="4213454677" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25015.jpg" crc="154555292" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25016.jpg" crc="113323954" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25017.jpg" crc="3800409862" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25018.jpg" crc="3910451967" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25019.jpg" crc="99091793" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x249.jpg" crc="4239544855" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25020.jpg" crc="35712801" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25021.jpg" crc="335997101" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25022.jpg" crc="4102815057" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25023.jpg" crc="4034783589" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25024.jpg" crc="435441185" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25025.jpg" crc="42105555" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25026.jpg" crc="4286809419" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25027.jpg" crc="3955543224" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25028.jpg" crc="3797914569" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25029.jpg" crc="209151607" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25030.jpg" crc="3770360492" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25031.jpg" crc="4227790321" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25032.jpg" crc="4031782457" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25033.jpg" crc="3772523862" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25034.jpg" crc="196574593" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25035.jpg" crc="236060304" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25036.jpg" crc="513558329" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25037.jpg" crc="3913141443" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25038.jpg" crc="418403134" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x251.jpg" crc="4112802107" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25039.jpg" crc="4157333778" seo="true" ref="douan"/>
   </folder>
-  <file name="douan.html" crc="465035873" seo="true" mt="1561064850330" redirect="true"/>
+  <file name="douan.html" crc="411385836" seo="true" mt="1563304868602" redirect="true"/>
   <file name="modere.html" crc="3884562614" seo="true" mt="1561063281813" redirect="true"/>
   <file name="douaninfo.html" crc="4266562475" seo="true" mt="1561063301919" redirect="true"/>
   <file name="modereinfo.html" crc="437071800" seo="true" mt="1561063310974" redirect="true"/>
