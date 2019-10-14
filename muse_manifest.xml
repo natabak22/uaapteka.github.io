@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1571080239085">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1571080592074">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="374020894" ref="douan"/>
@@ -7,7 +7,7 @@
     <file name="aboutinfo.css" crc="344129959" ref="aboutinfo"/>
     <file name="douaninfo.css" crc="3861537939" ref="douaninfo"/>
     <file name="modereinfo.css" crc="4132782499" ref="modereinfo"/>
-    <file name="antioxidant.css" crc="102469412" ref="antioxidant"/>
+    <file name="antioxidant.css" crc="187954121" ref="antioxidant"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
@@ -114,9 +114,10 @@
     <file name="вставленное изображение 200x25038.jpg" crc="418403134" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x251.jpg" crc="4112802107" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x25039.jpg" crc="4157333778" seo="true" ref="douan"/>
-    <file name="11-u8660-fr.png" crc="400549448" ref="modere:index:antioxidant"/>
+    <file name="11-u8660-fr.png" crc="400549448" ref="modere:index"/>
     <file name="antioxidant-favicon.ico" crc="229625077" ref="antioxidant"/>
     <file name="вставленное изображение 600x450.jpg" crc="4190387525" seo="true" ref="antioxidant"/>
+    <file name="11-u21775-fr.png" crc="400549448" ref="antioxidant"/>
   </folder>
   <file name="douan.html" crc="411385836" seo="true" mt="1563304868602" redirect="true"/>
   <file name="modere.html" crc="3992067460" seo="true" mt="1571078085828" redirect="true"/>
@@ -124,5 +125,5 @@
   <file name="modereinfo.html" crc="437071800" seo="true" mt="1561063310974" redirect="true"/>
   <file name="index.html" crc="433645917" seo="true" mt="1571075546144" redirect="true"/>
   <file name="aboutinfo.html" crc="4122831191" seo="true" mt="1561063321188" redirect="true"/>
-  <file name="antioxidant.html" crc="295040258" seo="true" mt="1571079507443" redirect="true"/>
+  <file name="antioxidant.html" crc="3896655376" seo="true" mt="1571080574837" redirect="true"/>
 </manifest>
