@@ -1,39 +1,40 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1563304910916">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1571080239085">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="374020894" ref="douan"/>
-    <file name="index.css" crc="21768012" ref="index"/>
-    <file name="modere.css" crc="4158079042" ref="modere"/>
+    <file name="index.css" crc="3980259181" ref="index"/>
+    <file name="modere.css" crc="4075443418" ref="modere"/>
     <file name="aboutinfo.css" crc="344129959" ref="aboutinfo"/>
     <file name="douaninfo.css" crc="3861537939" ref="douaninfo"/>
     <file name="modereinfo.css" crc="4132782499" ref="modereinfo"/>
+    <file name="antioxidant.css" crc="102469412" ref="antioxidant"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="museutils.js" crc="163421577" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="whatinput.js" crc="86476730" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="museconfig.js" crc="168988563" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="jquery.watch.js" crc="104486786" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="webpro.js" crc="3848665353" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="touchswipe.js" crc="404375771" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="html5shiv.js" crc="4241844378" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="require.js" crc="244322403" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="museutils.js" crc="163421577" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="whatinput.js" crc="86476730" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="museconfig.js" crc="168988563" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="jquery.watch.js" crc="104486786" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="webpro.js" crc="3848665353" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="touchswipe.js" crc="404375771" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="html5shiv.js" crc="4241844378" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="require.js" crc="244322403" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
   </folder>
   <folder name="images">
     <file name="каталог-douan-favicon.ico" crc="229625077" ref="douan"/>
-    <file name="blank.gif" crc="4208392903" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
-    <file name="11-u6994-fr.png" crc="400549448" ref="douan:modere:douaninfo:modereinfo:aboutinfo:index"/>
-    <file name="вставленное изображение 200x250.jpg" crc="4066226089" seo="true" ref="douan"/>
-    <file name="heart.png" crc="117585526" seo="true" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo"/>
+    <file name="blank.gif" crc="4208392903" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
+    <file name="11-u6994-fr.png" crc="400549448" ref="douan:douaninfo:modereinfo:aboutinfo"/>
+    <file name="вставленное изображение 200x250.jpg" crc="3983861223" seo="true" ref="douan:modere"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant"/>
     <file name="каталог-modere-favicon.ico" crc="229625077" ref="modere"/>
     <file name="вставленное изображение 200x247.jpg" crc="4185678352" seo="true" ref="modere"/>
-    <file name="вставленное изображение 200x2502.jpg" crc="3764023549" seo="true" ref="douan"/>
-    <file name="вставленное изображение 200x2503.jpg" crc="4185076975" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x2502.jpg" crc="4259974216" seo="true" ref="douan:modere"/>
+    <file name="вставленное изображение 200x2503.jpg" crc="132742421" seo="true" ref="douan:modere"/>
     <file name="вставленное изображение 200x2504.jpg" crc="34475653" seo="true" ref="douan"/>
     <file name="вставленное изображение 215x250.jpg" crc="303787321" seo="true" ref="modere"/>
     <file name="вставленное изображение 215x2502.jpg" crc="4101683569" seo="true" ref="modere"/>
@@ -76,9 +77,9 @@
     <file name="вставленное изображение 200x2506.jpg" crc="477574257" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x2507.jpg" crc="9489962" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x2508.jpg" crc="4089936539" seo="true" ref="douan"/>
-    <file name="вставленное изображение 200x2509.jpg" crc="360635000" seo="true" ref="modere:douan"/>
-    <file name="вставленное изображение 200x25010.jpg" crc="4230381931" seo="true" ref="modere:douan"/>
-    <file name="вставленное изображение 200x25011.jpg" crc="201388624" seo="true" ref="modere:douan"/>
+    <file name="вставленное изображение 200x2509.jpg" crc="360635000" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25010.jpg" crc="4230381931" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x25011.jpg" crc="201388624" seo="true" ref="douan"/>
     <file name="вставленное изображение 215x25027.jpg" crc="338051427" seo="true" ref="index"/>
     <file name="вставленное изображение 215x25028.jpg" crc="3767550585" seo="true" ref="index"/>
     <file name="вставленное изображение 215x25029.jpg" crc="3951686645" seo="true" ref="index"/>
@@ -113,11 +114,15 @@
     <file name="вставленное изображение 200x25038.jpg" crc="418403134" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x251.jpg" crc="4112802107" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x25039.jpg" crc="4157333778" seo="true" ref="douan"/>
+    <file name="11-u8660-fr.png" crc="400549448" ref="modere:index:antioxidant"/>
+    <file name="antioxidant-favicon.ico" crc="229625077" ref="antioxidant"/>
+    <file name="вставленное изображение 600x450.jpg" crc="4190387525" seo="true" ref="antioxidant"/>
   </folder>
   <file name="douan.html" crc="411385836" seo="true" mt="1563304868602" redirect="true"/>
-  <file name="modere.html" crc="3884562614" seo="true" mt="1561063281813" redirect="true"/>
+  <file name="modere.html" crc="3992067460" seo="true" mt="1571078085828" redirect="true"/>
   <file name="douaninfo.html" crc="4266562475" seo="true" mt="1561063301919" redirect="true"/>
   <file name="modereinfo.html" crc="437071800" seo="true" mt="1561063310974" redirect="true"/>
-  <file name="index.html" crc="4087444632" seo="true" mt="1561063239808" redirect="true"/>
+  <file name="index.html" crc="433645917" seo="true" mt="1571075546144" redirect="true"/>
   <file name="aboutinfo.html" crc="4122831191" seo="true" mt="1561063321188" redirect="true"/>
+  <file name="antioxidant.html" crc="295040258" seo="true" mt="1571079507443" redirect="true"/>
 </manifest>
