@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1571602410853">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1571692053268">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="374020894" ref="douan"/>
     <file name="index.css" crc="116450298" ref="index"/>
-    <file name="modere.css" crc="4246236048" ref="modere"/>
+    <file name="modere.css" crc="4066725124" ref="modere"/>
     <file name="aboutinfo.css" crc="344129959" ref="aboutinfo"/>
     <file name="douaninfo.css" crc="3861537939" ref="douaninfo"/>
     <file name="modereinfo.css" crc="4132782499" ref="modereinfo"/>
     <file name="antioxidant.css" crc="4291975594" ref="antioxidant"/>
-    <file name="focus-plus.css" crc="4094155584" ref="focus-plus"/>
+    <file name="focus-plus.css" crc="18980265" ref="focus-plus"/>
     <file name="msm.css" crc="3886260893" ref="msm"/>
     <file name="digestive.css" crc="3799656906" ref="digestive"/>
     <file name="coq10.css" crc="330119228" ref="coq10"/>
@@ -28,31 +28,35 @@
     <file name="liquid-biocell_-sport.css" crc="315248802" ref="liquid-biocell®-sport"/>
     <file name="sports-rub.css" crc="251942140" ref="sports-rub"/>
     <file name="mineral-supplement.css" crc="199863417" ref="mineral-supplement"/>
-    <file name="para-cleanse.css" crc="84005710" ref="para-cleanse"/>
+    <file name="para-cleanse.css" crc="4165603433" ref="para-cleanse"/>
+    <file name="hand-wash.css" crc="4015797319" ref="hand-wash"/>
+    <file name="moisturizing-shampoo.css" crc="4274434206" ref="moisturizing-shampoo"/>
+    <file name="mouth-rinse.css" crc="3972886965" ref="mouth-rinse"/>
+    <file name="hand-and-body-lotion.css" crc="4041334095" ref="hand-and-body-lotion"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="museutils.js" crc="163421577" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="whatinput.js" crc="86476730" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="museconfig.js" crc="168988563" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="jquery.watch.js" crc="104486786" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="webpro.js" crc="3848665353" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="touchswipe.js" crc="404375771" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="html5shiv.js" crc="4241844378" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="require.js" crc="244322403" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="museutils.js" crc="163421577" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="whatinput.js" crc="86476730" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="museconfig.js" crc="168988563" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="jquery.watch.js" crc="104486786" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="webpro.js" crc="3848665353" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="touchswipe.js" crc="404375771" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="html5shiv.js" crc="4241844378" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="require.js" crc="244322403" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
   </folder>
   <folder name="images">
     <file name="каталог-douan-favicon.ico" crc="229625077" ref="douan"/>
-    <file name="blank.gif" crc="4208392903" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
+    <file name="blank.gif" crc="4208392903" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
     <file name="11-u6994-fr.png" crc="400549448" ref="douan:douaninfo:modereinfo:aboutinfo"/>
     <file name="вставленное изображение 200x250.jpg" crc="3983861223" seo="true" ref="douan:modere"/>
-    <file name="heart.png" crc="117585526" seo="true" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
-    <file name="каталог-modere-favicon.ico" crc="229625077" ref="modere"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="каталог-modere-favicon.ico" crc="15413847" ref="modere"/>
     <file name="вставленное изображение 200x247.jpg" crc="4185678352" seo="true" ref="modere"/>
     <file name="вставленное изображение 200x2502.jpg" crc="4259974216" seo="true" ref="douan:modere"/>
     <file name="вставленное изображение 200x2503.jpg" crc="132742421" seo="true" ref="douan:modere"/>
@@ -134,7 +138,7 @@
     <file name="вставленное изображение 200x25038.jpg" crc="418403134" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x251.jpg" crc="4112802107" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x25039.jpg" crc="4157333778" seo="true" ref="douan"/>
-    <file name="11-u8660-fr.png" crc="400549448" ref="modere:index:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse"/>
+    <file name="11-u8660-fr.png" crc="400549448" ref="modere:index:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
     <file name="antioxidant-favicon.ico" crc="229625077" ref="antioxidant"/>
     <file name="вставленное изображение 600x450.jpg" crc="4190387525" seo="true" ref="antioxidant"/>
     <file name="msm-favicon.ico" crc="229625077" ref="msm"/>
@@ -142,7 +146,7 @@
     <file name="coq10-favicon.ico" crc="229625077" ref="coq10"/>
     <file name="вставленное изображение 501x415.jpg" crc="22880004" seo="true" ref="coq10:digestive"/>
     <file name="digestive-favicon.ico" crc="229625077" ref="digestive"/>
-    <file name="focus-plus-favicon.ico" crc="229625077" ref="focus-plus"/>
+    <file name="focus-plus-favicon.ico" crc="15413847" ref="focus-plus"/>
     <file name="вставленное изображение 501x452-crop-u23763.jpg" crc="4259394691" ref="focus-plus"/>
     <file name="вставленное изображение 432x420.jpg" crc="330784026" seo="true" ref="index"/>
     <file name="green-qi-favicon.ico" crc="229625077" ref="green-qi"/>
@@ -178,11 +182,19 @@
     <file name="вставленное изображение 514x411.jpg" crc="64100992" seo="true" ref="deodorant"/>
     <file name="eye-makeup-remover-favicon.ico" crc="229625077" ref="eye-makeup-remover"/>
     <file name="вставленное изображение 506x401.jpg" crc="36666109" seo="true" ref="eye-makeup-remover"/>
-    <file name="para-cleanse-favicon.ico" crc="229625077" ref="para-cleanse"/>
+    <file name="para-cleanse-favicon.ico" crc="15413847" ref="para-cleanse"/>
     <file name="вставленное изображение 498x416.jpg" crc="4112895948" seo="true" ref="para-cleanse"/>
+    <file name="hand-and-body-lotion-favicon.ico" crc="15413847" ref="hand-and-body-lotion"/>
+    <file name="вставленное изображение 502x477-crop-u30943.jpg" crc="88517896" ref="hand-and-body-lotion"/>
+    <file name="hand-wash-favicon.ico" crc="15413847" ref="hand-wash"/>
+    <file name="вставленное изображение 508x478-crop-u31125.jpg" crc="4083552719" ref="hand-wash"/>
+    <file name="moisturizing-shampoo-favicon.ico" crc="15413847" ref="moisturizing-shampoo"/>
+    <file name="вставленное изображение 504x424.jpg" crc="3952292270" seo="true" ref="moisturizing-shampoo"/>
+    <file name="mouth-rinse-favicon.ico" crc="15413847" ref="mouth-rinse"/>
+    <file name="вставленное изображение 514x392.jpg" crc="4076050478" seo="true" ref="mouth-rinse"/>
   </folder>
   <file name="douan.html" crc="411385836" seo="true" mt="1563304868602" redirect="true"/>
-  <file name="modere.html" crc="3867710920" seo="true" mt="1571602337159" redirect="true"/>
+  <file name="modere.html" crc="4270683045" seo="true" mt="1571692006662" redirect="true"/>
   <file name="douaninfo.html" crc="4266562475" seo="true" mt="1561063301919" redirect="true"/>
   <file name="modereinfo.html" crc="437071800" seo="true" mt="1561063310974" redirect="true"/>
   <file name="index.html" crc="103585362" seo="true" mt="1571602386464" redirect="true"/>
@@ -191,7 +203,7 @@
   <file name="msm.html" crc="113544880" seo="true" mt="1571568640569" redirect="true"/>
   <file name="coq10.html" crc="3856899446" seo="true" mt="1571174237097" redirect="true"/>
   <file name="digestive.html" crc="257697969" seo="true" mt="1571341323222" redirect="true"/>
-  <file name="focus-plus.html" crc="340825357" seo="true" mt="1571337949058" redirect="true"/>
+  <file name="focus-plus.html" crc="3793527703" seo="true" mt="1571689398720" redirect="true"/>
   <file name="green-qi.html" crc="4134808823" seo="true" mt="1571343145384" redirect="true"/>
   <file name="hawaiian-noni.html" crc="168964316" seo="true" mt="1571343178726" redirect="true"/>
   <file name="immune-health.html" crc="265891373" seo="true" mt="1571343200647" redirect="true"/>
@@ -208,5 +220,9 @@
   <file name="body-bar-3p.html" crc="4229074369" seo="true" mt="1571564410216" redirect="true"/>
   <file name="deodorant.html" crc="4003369064" seo="true" mt="1571565083230" redirect="true"/>
   <file name="eye-makeup-remover.html" crc="3893095568" seo="true" mt="1571567738176" redirect="true"/>
-  <file name="para-cleanse.html" crc="3761948936" seo="true" mt="1571602324170" redirect="true"/>
+  <file name="para-cleanse.html" crc="4105555169" seo="true" mt="1571689337698" redirect="true"/>
+  <file name="hand-and-body-lotion.html" crc="3795264251" seo="true" mt="1571690586102" redirect="true"/>
+  <file name="hand-wash.html" crc="4251299872" seo="true" mt="1571691095042" redirect="true"/>
+  <file name="moisturizing-shampoo.html" crc="3948947185" seo="true" mt="1571691499781" redirect="true"/>
+  <file name="mouth-rinse.html" crc="4086742494" seo="true" mt="1571691963006" redirect="true"/>
 </manifest>
