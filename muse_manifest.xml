@@ -1,38 +1,38 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1571761444241">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1571762222433">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="douan.css" crc="374020894" ref="douan"/>
-    <file name="index.css" crc="116450298" ref="index"/>
-    <file name="modere.css" crc="4066725124" ref="modere"/>
-    <file name="aboutinfo.css" crc="344129959" ref="aboutinfo"/>
-    <file name="douaninfo.css" crc="3861537939" ref="douaninfo"/>
-    <file name="modereinfo.css" crc="4132782499" ref="modereinfo"/>
-    <file name="antioxidant.css" crc="4291975594" ref="antioxidant"/>
-    <file name="focus-plus.css" crc="18980265" ref="focus-plus"/>
-    <file name="msm.css" crc="3886260893" ref="msm"/>
-    <file name="digestive.css" crc="3799656906" ref="digestive"/>
-    <file name="coq10.css" crc="330119228" ref="coq10"/>
-    <file name="m3---trim-lemon.css" crc="4042445152" ref="m3---trim-lemon"/>
-    <file name="trim---vanilla.css" crc="353784166" ref="trim---vanilla"/>
-    <file name="trim---lemon.css" crc="4181348616" ref="trim---lemon"/>
-    <file name="hawaiian-noni.css" crc="412241760" ref="hawaiian-noni"/>
-    <file name="immune-health.css" crc="256267550" ref="immune-health"/>
-    <file name="trim---chocolate.css" crc="153364820" ref="trim---chocolate"/>
-    <file name="liver-health.css" crc="212183538" ref="liver-health"/>
-    <file name="green-qi.css" crc="4264796112" ref="green-qi"/>
-    <file name="deodorant.css" crc="3975232120" ref="deodorant"/>
-    <file name="eye-makeup-remover.css" crc="4238724313" ref="eye-makeup-remover"/>
-    <file name="vigor.css" crc="3840727559" ref="vigor"/>
-    <file name="body-bar-3p.css" crc="450298002" ref="body-bar-3p"/>
-    <file name="liquid-biocell_-pure.css" crc="42056595" ref="liquid-biocell®-pure"/>
-    <file name="liquid-biocell_-sport.css" crc="315248802" ref="liquid-biocell®-sport"/>
-    <file name="sports-rub.css" crc="251942140" ref="sports-rub"/>
-    <file name="mineral-supplement.css" crc="199863417" ref="mineral-supplement"/>
-    <file name="para-cleanse.css" crc="4165603433" ref="para-cleanse"/>
-    <file name="hand-wash.css" crc="4015797319" ref="hand-wash"/>
-    <file name="moisturizing-shampoo.css" crc="4274434206" ref="moisturizing-shampoo"/>
-    <file name="mouth-rinse.css" crc="3972886965" ref="mouth-rinse"/>
-    <file name="hand-and-body-lotion.css" crc="4041334095" ref="hand-and-body-lotion"/>
+    <file name="douan.css" crc="3875498215" ref="douan"/>
+    <file name="index.css" crc="3902513098" ref="index"/>
+    <file name="modere.css" crc="483698447" ref="modere"/>
+    <file name="aboutinfo.css" crc="238302500" ref="aboutinfo"/>
+    <file name="douaninfo.css" crc="429321162" ref="douaninfo"/>
+    <file name="modereinfo.css" crc="4073250047" ref="modereinfo"/>
+    <file name="antioxidant.css" crc="284927139" ref="antioxidant"/>
+    <file name="focus-plus.css" crc="4199289511" ref="focus-plus"/>
+    <file name="msm.css" crc="3847608640" ref="msm"/>
+    <file name="digestive.css" crc="300335334" ref="digestive"/>
+    <file name="coq10.css" crc="4212274611" ref="coq10"/>
+    <file name="m3---trim-lemon.css" crc="139253615" ref="m3---trim-lemon"/>
+    <file name="trim---vanilla.css" crc="113251328" ref="trim---vanilla"/>
+    <file name="trim---lemon.css" crc="4045669176" ref="trim---lemon"/>
+    <file name="hawaiian-noni.css" crc="244437600" ref="hawaiian-noni"/>
+    <file name="immune-health.css" crc="101919540" ref="immune-health"/>
+    <file name="trim---chocolate.css" crc="4003727599" ref="trim---chocolate"/>
+    <file name="liver-health.css" crc="3863323602" ref="liver-health"/>
+    <file name="green-qi.css" crc="3802230221" ref="green-qi"/>
+    <file name="deodorant.css" crc="4032937122" ref="deodorant"/>
+    <file name="eye-makeup-remover.css" crc="4112424090" ref="eye-makeup-remover"/>
+    <file name="vigor.css" crc="446635387" ref="vigor"/>
+    <file name="body-bar-3p.css" crc="4160738523" ref="body-bar-3p"/>
+    <file name="liquid-biocell_-pure.css" crc="4059815221" ref="liquid-biocell®-pure"/>
+    <file name="liquid-biocell_-sport.css" crc="454173416" ref="liquid-biocell®-sport"/>
+    <file name="sports-rub.css" crc="4076749975" ref="sports-rub"/>
+    <file name="mineral-supplement.css" crc="255161651" ref="mineral-supplement"/>
+    <file name="para-cleanse.css" crc="383279662" ref="para-cleanse"/>
+    <file name="hand-wash.css" crc="155519756" ref="hand-wash"/>
+    <file name="moisturizing-shampoo.css" crc="4144100250" ref="moisturizing-shampoo"/>
+    <file name="mouth-rinse.css" crc="437989683" ref="mouth-rinse"/>
+    <file name="hand-and-body-lotion.css" crc="73344190" ref="hand-and-body-lotion"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
@@ -50,16 +50,16 @@
     <file name="require.js" crc="244322403" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
   </folder>
   <folder name="images">
-    <file name="каталог-douan-favicon.ico" crc="229625077" ref="douan"/>
+    <file name="каталог-douan-favicon.ico" crc="15413847" ref="douan"/>
     <file name="blank.gif" crc="4208392903" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
     <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
-    <file name="11-u6994-fr.png" crc="400549448" ref="douan:douaninfo:modereinfo:aboutinfo"/>
-    <file name="вставленное изображение 200x250.jpg" crc="3983861223" seo="true" ref="douan:modere"/>
+    <file name="11-u6994-fr.png" crc="400549448" ref="douan:douaninfo:modereinfo:aboutinfo:modere:index:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
+    <file name="вставленное изображение 200x250.jpg" crc="4066226089" seo="true" ref="douan"/>
     <file name="heart.png" crc="117585526" seo="true" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
     <file name="каталог-modere-favicon.ico" crc="15413847" ref="modere"/>
     <file name="вставленное изображение 200x247.jpg" crc="4185678352" seo="true" ref="modere"/>
-    <file name="вставленное изображение 200x2502.jpg" crc="4259974216" seo="true" ref="douan:modere"/>
-    <file name="вставленное изображение 200x2503.jpg" crc="132742421" seo="true" ref="douan:modere"/>
+    <file name="вставленное изображение 200x2502.jpg" crc="3764023549" seo="true" ref="douan"/>
+    <file name="вставленное изображение 200x2503.jpg" crc="4185076975" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x2504.jpg" crc="34475653" seo="true" ref="douan"/>
     <file name="вставленное изображение 215x250.jpg" crc="303787321" seo="true" ref="modere"/>
     <file name="вставленное изображение 215x2502.jpg" crc="4101683569" seo="true" ref="modere"/>
@@ -87,14 +87,14 @@
     <file name="вставленное изображение 215x25024.jpg" crc="3784554319" seo="true" ref="modere"/>
     <file name="вставленное изображение 215x25025.jpg" crc="4005951643" seo="true" ref="modere:index"/>
     <file name="вставленное изображение 215x25026.jpg" crc="3770528250" seo="true" ref="modere:index"/>
-    <file name="douan-favicon.ico" crc="229625077" ref="douaninfo"/>
-    <file name="modere-favicon.ico" crc="229625077" ref="modereinfo"/>
-    <file name="main-favicon.ico" crc="229625077" ref="index"/>
+    <file name="douan-favicon.ico" crc="15413847" ref="douaninfo"/>
+    <file name="modere-favicon.ico" crc="15413847" ref="modereinfo"/>
+    <file name="main-favicon.ico" crc="15413847" ref="index"/>
     <file name="mg_f-12_enl.jpg" crc="484573982" ref="index"/>
     <file name="979d963c.jpg" crc="482073878" ref="index"/>
     <file name="modere.jpg" crc="3926060291" ref="index"/>
     <file name="douan.jpg" crc="202288810" ref="index"/>
-    <file name="about-favicon.ico" crc="229625077" ref="aboutinfo"/>
+    <file name="about-favicon.ico" crc="15413847" ref="aboutinfo"/>
     <file name="вставленное изображение 637x439.jpg" crc="4183091576" seo="true" ref="aboutinfo"/>
     <file name="вставленное изображение 750x453.jpg" crc="4195641782" seo="true" ref="aboutinfo"/>
     <file name="вставленное изображение 200x2505.jpg" crc="527910093" seo="true" ref="douan"/>
@@ -138,91 +138,94 @@
     <file name="вставленное изображение 200x25038.jpg" crc="418403134" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x251.jpg" crc="4112802107" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x25039.jpg" crc="4157333778" seo="true" ref="douan"/>
-    <file name="11-u8660-fr.png" crc="400549448" ref="modere:index:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse"/>
-    <file name="antioxidant-favicon.ico" crc="229625077" ref="antioxidant"/>
+    <file name="antioxidant-favicon.ico" crc="15413847" ref="antioxidant"/>
     <file name="вставленное изображение 600x450.jpg" crc="4190387525" seo="true" ref="antioxidant"/>
-    <file name="msm-favicon.ico" crc="229625077" ref="msm"/>
+    <file name="msm-favicon.ico" crc="15413847" ref="msm"/>
     <file name="вставленное изображение 501x414.jpg" crc="502510328" seo="true" ref="msm"/>
-    <file name="coq10-favicon.ico" crc="229625077" ref="coq10"/>
-    <file name="вставленное изображение 501x415.jpg" crc="22880004" seo="true" ref="coq10:digestive"/>
-    <file name="digestive-favicon.ico" crc="229625077" ref="digestive"/>
+    <file name="coq10-favicon.ico" crc="15413847" ref="coq10"/>
+    <file name="вставленное изображение 501x415.jpg" crc="4035619966" seo="true" ref="coq10"/>
+    <file name="digestive-favicon.ico" crc="15413847" ref="digestive"/>
     <file name="focus-plus-favicon.ico" crc="15413847" ref="focus-plus"/>
     <file name="вставленное изображение 501x452-crop-u23763.jpg" crc="4259394691" ref="focus-plus"/>
     <file name="вставленное изображение 432x420.jpg" crc="330784026" seo="true" ref="index"/>
-    <file name="green-qi-favicon.ico" crc="229625077" ref="green-qi"/>
-    <file name="вставленное изображение 501x455-crop-u24324.jpg" crc="3788729110" ref="green-qi"/>
-    <file name="hawaiian-noni-favicon.ico" crc="229625077" ref="hawaiian-noni"/>
+    <file name="green-qi-favicon.ico" crc="15413847" ref="green-qi"/>
+    <file name="вставленное изображение 501x455-crop-u24324.jpg" crc="300098748" ref="green-qi"/>
+    <file name="hawaiian-noni-favicon.ico" crc="15413847" ref="hawaiian-noni"/>
     <file name="вставленное изображение 504x399.jpg" crc="456802771" seo="true" ref="hawaiian-noni"/>
-    <file name="immune-health-favicon.ico" crc="229625077" ref="immune-health"/>
+    <file name="immune-health-favicon.ico" crc="15413847" ref="immune-health"/>
     <file name="вставленное изображение 500x394.jpg" crc="3930019143" seo="true" ref="immune-health"/>
-    <file name="trim---vanilla-favicon.ico" crc="229625077" ref="trim---vanilla"/>
+    <file name="trim---vanilla-favicon.ico" crc="15413847" ref="trim---vanilla"/>
     <file name="вставленное изображение 396x424.jpg" crc="163472848" seo="true" ref="trim---vanilla"/>
-    <file name="trim---chocolate-favicon.ico" crc="229625077" ref="trim---chocolate"/>
+    <file name="trim---chocolate-favicon.ico" crc="15413847" ref="trim---chocolate"/>
     <file name="вставленное изображение 396x418.jpg" crc="205445498" seo="true" ref="trim---chocolate"/>
-    <file name="trim---lemon-favicon.ico" crc="229625077" ref="trim---lemon"/>
+    <file name="trim---lemon-favicon.ico" crc="15413847" ref="trim---lemon"/>
     <file name="вставленное изображение 397x417.jpg" crc="3778531236" seo="true" ref="trim---lemon"/>
-    <file name="liver-health-favicon.ico" crc="229625077" ref="liver-health"/>
+    <file name="liver-health-favicon.ico" crc="15413847" ref="liver-health"/>
     <file name="вставленное изображение 502x415.jpg" crc="4041181489" seo="true" ref="liver-health"/>
-    <file name="m3---trim-lemon-favicon.ico" crc="229625077" ref="m3---trim-lemon"/>
+    <file name="m3---trim-lemon-favicon.ico" crc="15413847" ref="m3---trim-lemon"/>
     <file name="вставленное изображение 502x394.jpg" crc="367199782" seo="true" ref="m3---trim-lemon"/>
     <file name="вставленное изображение 320x301.jpg" crc="351753684" seo="true" ref="index"/>
-    <file name="mineral-supplement-favicon.ico" crc="229625077" ref="mineral-supplement"/>
+    <file name="mineral-supplement-favicon.ico" crc="15413847" ref="mineral-supplement"/>
     <file name="вставленное изображение 486x375.jpg" crc="4100034552" seo="true" ref="mineral-supplement"/>
-    <file name="sports-rub-favicon.ico" crc="229625077" ref="sports-rub"/>
+    <file name="sports-rub-favicon.ico" crc="15413847" ref="sports-rub"/>
     <file name="вставленное изображение 483x358.jpg" crc="4284830216" seo="true" ref="sports-rub"/>
-    <file name="vigor-favicon.ico" crc="229625077" ref="vigor"/>
+    <file name="vigor-favicon.ico" crc="15413847" ref="vigor"/>
     <file name="вставленное изображение 431x326.jpg" crc="4292994945" seo="true" ref="vigor"/>
-    <file name="liquid-biocell®-pure-favicon.ico" crc="229625077" ref="liquid-biocell®-pure"/>
+    <file name="liquid-biocell®-pure-favicon.ico" crc="15413847" ref="liquid-biocell®-pure"/>
     <file name="вставленное изображение 501x393.jpg" crc="283063621" seo="true" ref="liquid-biocell®-pure"/>
-    <file name="liquid-biocell®-sport-favicon.ico" crc="229625077" ref="liquid-biocell®-sport"/>
+    <file name="liquid-biocell®-sport-favicon.ico" crc="15413847" ref="liquid-biocell®-sport"/>
     <file name="вставленное изображение 521x411.jpg" crc="3818340254" seo="true" ref="liquid-biocell®-sport"/>
-    <file name="body-bar-3p-favicon.ico" crc="229625077" ref="body-bar-3p"/>
+    <file name="body-bar-3p-favicon.ico" crc="15413847" ref="body-bar-3p"/>
     <file name="вставленное изображение 509x403.jpg" crc="262227234" seo="true" ref="body-bar-3p"/>
-    <file name="deodorant-favicon.ico" crc="229625077" ref="deodorant"/>
+    <file name="deodorant-favicon.ico" crc="15413847" ref="deodorant"/>
     <file name="вставленное изображение 514x411.jpg" crc="64100992" seo="true" ref="deodorant"/>
-    <file name="eye-makeup-remover-favicon.ico" crc="229625077" ref="eye-makeup-remover"/>
+    <file name="eye-makeup-remover-favicon.ico" crc="15413847" ref="eye-makeup-remover"/>
     <file name="вставленное изображение 506x401.jpg" crc="36666109" seo="true" ref="eye-makeup-remover"/>
     <file name="para-cleanse-favicon.ico" crc="15413847" ref="para-cleanse"/>
     <file name="вставленное изображение 498x416.jpg" crc="4112895948" seo="true" ref="para-cleanse"/>
     <file name="hand-and-body-lotion-favicon.ico" crc="15413847" ref="hand-and-body-lotion"/>
-    <file name="вставленное изображение 502x477-crop-u30943.jpg" crc="88517896" ref="hand-and-body-lotion"/>
+    <file name="вставленное изображение 502x477-crop-u30943.jpg" crc="419781889" ref="hand-and-body-lotion"/>
     <file name="hand-wash-favicon.ico" crc="15413847" ref="hand-wash"/>
-    <file name="вставленное изображение 508x478-crop-u31125.jpg" crc="4083552719" ref="hand-wash"/>
+    <file name="вставленное изображение 508x478-crop-u31125.jpg" crc="370948953" ref="hand-wash"/>
     <file name="moisturizing-shampoo-favicon.ico" crc="15413847" ref="moisturizing-shampoo"/>
     <file name="вставленное изображение 504x424.jpg" crc="3952292270" seo="true" ref="moisturizing-shampoo"/>
     <file name="mouth-rinse-favicon.ico" crc="15413847" ref="mouth-rinse"/>
     <file name="вставленное изображение 514x392.jpg" crc="4076050478" seo="true" ref="mouth-rinse"/>
+    <file name="вставленное изображение 200x25040.jpg" crc="3983861223" seo="true" ref="modere"/>
+    <file name="вставленное изображение 200x25041.jpg" crc="4259974216" seo="true" ref="modere"/>
+    <file name="вставленное изображение 200x25042.jpg" crc="132742421" seo="true" ref="modere"/>
+    <file name="вставленное изображение 501x4152.jpg" crc="22880004" seo="true" ref="digestive"/>
   </folder>
-  <file name="douan.html" crc="411385836" seo="true" mt="1563304868602" redirect="true"/>
-  <file name="modere.html" crc="4270683045" seo="true" mt="1571692006662" redirect="true"/>
-  <file name="douaninfo.html" crc="4266562475" seo="true" mt="1561063301919" redirect="true"/>
-  <file name="modereinfo.html" crc="437071800" seo="true" mt="1561063310974" redirect="true"/>
-  <file name="index.html" crc="103585362" seo="true" mt="1571602386464" redirect="true"/>
-  <file name="aboutinfo.html" crc="4122831191" seo="true" mt="1561063321188" redirect="true"/>
-  <file name="antioxidant.html" crc="294549620" seo="true" mt="1571337702991" redirect="true"/>
-  <file name="msm.html" crc="113544880" seo="true" mt="1571568640569" redirect="true"/>
-  <file name="coq10.html" crc="3856899446" seo="true" mt="1571174237097" redirect="true"/>
-  <file name="digestive.html" crc="257697969" seo="true" mt="1571341323222" redirect="true"/>
-  <file name="focus-plus.html" crc="3793527703" seo="true" mt="1571689398720" redirect="true"/>
-  <file name="green-qi.html" crc="4134808823" seo="true" mt="1571343145384" redirect="true"/>
-  <file name="hawaiian-noni.html" crc="168964316" seo="true" mt="1571343178726" redirect="true"/>
-  <file name="immune-health.html" crc="265891373" seo="true" mt="1571343200647" redirect="true"/>
-  <file name="trim---vanilla.html" crc="3894316735" seo="true" mt="1571343229646" redirect="true"/>
-  <file name="trim---chocolate.html" crc="3793789155" seo="true" mt="1571343256950" redirect="true"/>
-  <file name="trim---lemon.html" crc="39035858" seo="true" mt="1571343277366" redirect="true"/>
-  <file name="liver-health.html" crc="4258716975" seo="true" mt="1571343094443" redirect="true"/>
-  <file name="m3---trim-lemon.html" crc="3880325462" seo="true" mt="1571344265228" redirect="true"/>
-  <file name="mineral-supplement.html" crc="318170957" seo="true" mt="1571565514330" redirect="true"/>
-  <file name="sports-rub.html" crc="308720504" seo="true" mt="1571559174570" redirect="true"/>
-  <file name="vigor.html" crc="384455263" seo="true" mt="1571561995690" redirect="true"/>
-  <file name="liquid-biocell®-pure.html" crc="331559064" seo="true" mt="1571563514901" redirect="true"/>
-  <file name="liquid-biocell®-sport.html" crc="414957341" seo="true" mt="1571563951027" redirect="true"/>
-  <file name="body-bar-3p.html" crc="4229074369" seo="true" mt="1571564410216" redirect="true"/>
-  <file name="deodorant.html" crc="4003369064" seo="true" mt="1571565083230" redirect="true"/>
-  <file name="eye-makeup-remover.html" crc="3893095568" seo="true" mt="1571567738176" redirect="true"/>
-  <file name="para-cleanse.html" crc="4105555169" seo="true" mt="1571689337698" redirect="true"/>
-  <file name="hand-and-body-lotion.html" crc="3795264251" seo="true" mt="1571690586102" redirect="true"/>
-  <file name="hand-wash.html" crc="4251299872" seo="true" mt="1571691095042" redirect="true"/>
-  <file name="moisturizing-shampoo.html" crc="3948947185" seo="true" mt="1571691499781" redirect="true"/>
-  <file name="mouth-rinse.html" crc="4086742494" seo="true" mt="1571691963006" redirect="true"/>
+  <file name="douan.html" crc="3951385376" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="modere.html" crc="4263760986" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="douaninfo.html" crc="4125108687" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="modereinfo.html" crc="518692671" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="index.html" crc="4264713696" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="aboutinfo.html" crc="4156956092" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="antioxidant.html" crc="45406820" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="msm.html" crc="3838757088" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="coq10.html" crc="335329208" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="digestive.html" crc="3969604720" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="focus-plus.html" crc="158371917" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="green-qi.html" crc="166609257" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="hawaiian-noni.html" crc="4005172505" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="immune-health.html" crc="459314091" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="trim---vanilla.html" crc="4266473481" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="trim---chocolate.html" crc="3966735133" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="trim---lemon.html" crc="223283586" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="liver-health.html" crc="81789928" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="m3---trim-lemon.html" crc="337784513" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="mineral-supplement.html" crc="62939090" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="sports-rub.html" crc="3783552178" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="vigor.html" crc="4042305733" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="liquid-biocell®-pure.html" crc="3800659237" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="liquid-biocell®-sport.html" crc="4287539450" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="body-bar-3p.html" crc="4243555165" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="deodorant.html" crc="148306116" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="eye-makeup-remover.html" crc="511585422" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="para-cleanse.html" crc="256044664" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="hand-and-body-lotion.html" crc="3778587966" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="hand-wash.html" crc="249287887" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="moisturizing-shampoo.html" crc="172197533" seo="true" mt="1571762154174" redirect="true"/>
+  <file name="mouth-rinse.html" crc="3972891652" seo="true" mt="1571762154174" redirect="true"/>
 </manifest>
