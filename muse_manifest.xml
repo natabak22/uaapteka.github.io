@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1571767947339">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1571769020444">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="3875498215" ref="douan"/>
@@ -33,10 +33,10 @@
     <file name="moisturizing-shampoo.css" crc="4144100250" ref="moisturizing-shampoo"/>
     <file name="mouth-rinse.css" crc="437989683" ref="mouth-rinse"/>
     <file name="hand-and-body-lotion.css" crc="73344190" ref="hand-and-body-lotion"/>
-    <file name="shower-gel.css" crc="431102597" ref="shower-gel"/>
-    <file name="toothpaste.css" crc="4015145038" ref="toothpaste"/>
-    <file name="liquid-biocell_-life.css" crc="3988790019" ref="liquid-biocell®-life"/>
-    <file name="shampoo-all-types.css" crc="501231762" ref="shampoo-all-types"/>
+    <file name="shower-gel.css" crc="223877028" ref="shower-gel"/>
+    <file name="toothpaste.css" crc="268941064" ref="toothpaste"/>
+    <file name="liquid-biocell_-life.css" crc="236696506" ref="liquid-biocell®-life"/>
+    <file name="shampoo-all-types.css" crc="490240265" ref="shampoo-all-types"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse:shampoo-all-types:shower-gel:toothpaste:liquid-biocell®-life"/>
@@ -196,7 +196,7 @@
     <file name="mouth-rinse-favicon.ico" crc="15413847" ref="mouth-rinse"/>
     <file name="вставленное изображение 514x392.jpg" crc="4076050478" seo="true" ref="mouth-rinse"/>
     <file name="вставленное изображение 501x4152.jpg" crc="22880004" seo="true" ref="digestive"/>
-    <file name="11-u8660-fr.png" crc="400549448" ref="modere:shampoo-all-types:shower-gel:toothpaste:liquid-biocell®-life"/>
+    <file name="11-u8660-fr.png" crc="400549448" ref="modere"/>
     <file name="shampoo-all-types-favicon.ico" crc="15413847" ref="shampoo-all-types"/>
     <file name="вставленное изображение 502x379.jpg" crc="305456038" seo="true" ref="shampoo-all-types"/>
     <file name="shower-gel-favicon.ico" crc="15413847" ref="shower-gel"/>
@@ -205,6 +205,7 @@
     <file name="вставленное изображение 508x412.jpg" crc="65905088" seo="true" ref="toothpaste"/>
     <file name="liquid-biocell®-life-favicon.ico" crc="15413847" ref="liquid-biocell®-life"/>
     <file name="вставленное изображение 446x341.jpg" crc="3938746412" seo="true" ref="liquid-biocell®-life"/>
+    <file name="11-u33259-fr.png" crc="400549448" ref="shampoo-all-types:shower-gel:toothpaste:liquid-biocell®-life"/>
   </folder>
   <file name="douan.html" crc="3951385376" seo="true" mt="1571762154174" redirect="true"/>
   <file name="modere.html" crc="4228567454" seo="true" mt="1571767897326" redirect="true"/>
@@ -238,8 +239,8 @@
   <file name="hand-wash.html" crc="249287887" seo="true" mt="1571762154174" redirect="true"/>
   <file name="moisturizing-shampoo.html" crc="172197533" seo="true" mt="1571762154174" redirect="true"/>
   <file name="mouth-rinse.html" crc="3972891652" seo="true" mt="1571762154174" redirect="true"/>
-  <file name="shampoo-all-types.html" crc="3801550135" seo="true" mt="1571766559663" redirect="true"/>
-  <file name="shower-gel.html" crc="485921561" seo="true" mt="1571766937586" redirect="true"/>
-  <file name="toothpaste.html" crc="3830190662" seo="true" mt="1571767413606" redirect="true"/>
-  <file name="liquid-biocell®-life.html" crc="157546558" seo="true" mt="1571767882305" redirect="true"/>
+  <file name="shampoo-all-types.html" crc="63251225" seo="true" mt="1571768844824" redirect="true"/>
+  <file name="shower-gel.html" crc="533929575" seo="true" mt="1571768868306" redirect="true"/>
+  <file name="toothpaste.html" crc="4170871202" seo="true" mt="1571768942006" redirect="true"/>
+  <file name="liquid-biocell®-life.html" crc="4118269959" seo="true" mt="1571768961956" redirect="true"/>
 </manifest>
