@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1572783540254">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1572954681460">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="3999514554" ref="douan"/>
-    <file name="index.css" crc="3974847869" ref="index"/>
+    <file name="index.css" crc="344687658" ref="index"/>
     <file name="modere.css" crc="357306288" ref="modere"/>
     <file name="aboutinfo.css" crc="238302500" ref="aboutinfo"/>
     <file name="douaninfo.css" crc="429321162" ref="douaninfo"/>
@@ -42,7 +42,7 @@
     <file name="chaj-dlya-ukrepleniya-pecheni.css" crc="4254082732" ref="chaj-dlya-ukrepleniya-pecheni"/>
     <file name="cink-50-tabletok.css" crc="4265846029" ref="cink-50-tabletok"/>
     <file name="linchzhi.css" crc="459926100" ref="linchzhi"/>
-    <file name="omega-3.css" crc="3835057493" ref="omega-3"/>
+    <file name="omega-3.css" crc="467705349" ref="omega-3"/>
     <file name="pchelinaya-pyl-ca.css" crc="536439278" ref="pchelinaya-pyl-ca"/>
     <file name="zhenskaya-formula.css" crc="407551362" ref="zhenskaya-formula"/>
     <file name="fitoglobin.css" crc="113455168" ref="fitoglobin"/>
@@ -51,7 +51,7 @@
     <file name="chaj-antilipidnyj-s-selenom.css" crc="3900747526" ref="chaj-antilipidnyj-s-selenom"/>
     <file name="hitozan.css" crc="530009746" ref="hitozan"/>
     <file name="kal-cij.css" crc="19106997" ref="kal-cij"/>
-    <file name="strukturizatory-vody.css" crc="224413946" ref="strukturizatory-vody"/>
+    <file name="strukturizatory-vody.css" crc="3826115736" ref="strukturizatory-vody"/>
     <file name="kapsuly-krasnogo-risa.css" crc="3944164292" ref="kapsuly-krasnogo-risa"/>
   </folder>
   <folder name="scripts">
@@ -73,7 +73,7 @@
     <file name="каталог-douan-favicon.ico" crc="15413847" ref="douan"/>
     <file name="blank.gif" crc="4208392903" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse:shampoo-all-types:shower-gel:toothpaste:liquid-biocell®-life:pchelinaya-pyl-ca:chaj-dlya-ukrepleniya-pecheni:chaj-antilipidnyj-s-selenom:granuly-lyu-vej:cink-50-tabletok:zhenskaya-formula:omega-3:linchzhi:spirulina:kordiceps-nanotekhnologicheskij:chaj-dlya-vyvedenie-shlakov-iz-revenya:fitoglobin:hitozan:kapsuly-krasnogo-risa:kal-cij:strukturizatory-vody"/>
     <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse:shampoo-all-types:shower-gel:toothpaste:liquid-biocell®-life:pchelinaya-pyl-ca:chaj-dlya-ukrepleniya-pecheni:chaj-antilipidnyj-s-selenom:granuly-lyu-vej:cink-50-tabletok:zhenskaya-formula:omega-3:linchzhi:spirulina:kordiceps-nanotekhnologicheskij:chaj-dlya-vyvedenie-shlakov-iz-revenya:fitoglobin:hitozan:kapsuly-krasnogo-risa:kal-cij:strukturizatory-vody"/>
-    <file name="11-u6994-fr.png" crc="400549448" ref="douan:douaninfo:modereinfo:aboutinfo:index:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse:pchelinaya-pyl-ca:chaj-dlya-ukrepleniya-pecheni:chaj-antilipidnyj-s-selenom:granuly-lyu-vej:cink-50-tabletok:zhenskaya-formula:omega-3:linchzhi:spirulina:kordiceps-nanotekhnologicheskij:chaj-dlya-vyvedenie-shlakov-iz-revenya:fitoglobin:hitozan:kapsuly-krasnogo-risa:kal-cij:strukturizatory-vody"/>
+    <file name="11-u6994-fr.png" crc="400549448" ref="douan:douaninfo:modereinfo:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse:pchelinaya-pyl-ca:chaj-dlya-ukrepleniya-pecheni:chaj-antilipidnyj-s-selenom:granuly-lyu-vej:cink-50-tabletok:zhenskaya-formula:linchzhi:spirulina:kordiceps-nanotekhnologicheskij:chaj-dlya-vyvedenie-shlakov-iz-revenya:fitoglobin:hitozan:kapsuly-krasnogo-risa:kal-cij"/>
     <file name="вставленное изображение 200x250.jpg" crc="34475653" seo="true" ref="douan:modere"/>
     <file name="heart.png" crc="117585526" seo="true" ref="douan:modere:douaninfo:modereinfo:index:aboutinfo:antioxidant:msm:coq10:digestive:focus-plus:green-qi:hawaiian-noni:immune-health:trim---vanilla:trim---chocolate:trim---lemon:liver-health:m3---trim-lemon:mineral-supplement:sports-rub:vigor:liquid-biocell®-pure:liquid-biocell®-sport:body-bar-3p:deodorant:eye-makeup-remover:para-cleanse:hand-and-body-lotion:hand-wash:moisturizing-shampoo:mouth-rinse:shampoo-all-types:shower-gel:toothpaste:liquid-biocell®-life:pchelinaya-pyl-ca:chaj-dlya-ukrepleniya-pecheni:chaj-antilipidnyj-s-selenom:granuly-lyu-vej:cink-50-tabletok:zhenskaya-formula:omega-3:linchzhi:spirulina:kordiceps-nanotekhnologicheskij:chaj-dlya-vyvedenie-shlakov-iz-revenya:fitoglobin:hitozan:kapsuly-krasnogo-risa:kal-cij:strukturizatory-vody"/>
     <file name="каталог-modere-favicon.ico" crc="15413847" ref="modere"/>
@@ -250,12 +250,13 @@
     <file name="вставленное изображение 447x307.jpg" crc="3941758882" seo="true" ref="kal-cij"/>
     <file name="strukturizatory-vody-favicon.ico" crc="15413847" ref="strukturizatory-vody"/>
     <file name="вставленное изображение 464x392.jpg" crc="78574801" seo="true" ref="strukturizatory-vody"/>
+    <file name="11-u18050-fr.png" crc="400549448" ref="index:omega-3:strukturizatory-vody"/>
   </folder>
   <file name="douan.html" crc="4131201623" seo="true" mt="1572783450944" redirect="true"/>
   <file name="modere.html" crc="4228567454" seo="true" mt="1571767897326" redirect="true"/>
   <file name="douaninfo.html" crc="4125108687" seo="true" mt="1571762154174" redirect="true"/>
   <file name="modereinfo.html" crc="518692671" seo="true" mt="1571762154174" redirect="true"/>
-  <file name="index.html" crc="410507878" seo="true" mt="1572783475451" redirect="true"/>
+  <file name="index.html" crc="523515548" seo="true" mt="1572954564918" redirect="true"/>
   <file name="aboutinfo.html" crc="4156956092" seo="true" mt="1571762154174" redirect="true"/>
   <file name="antioxidant.html" crc="45406820" seo="true" mt="1571762154174" redirect="true"/>
   <file name="msm.html" crc="3838757088" seo="true" mt="1571762154174" redirect="true"/>
@@ -293,7 +294,7 @@
   <file name="granuly-lyu-vej.html" crc="4180708442" seo="true" mt="1572769335323" redirect="true"/>
   <file name="cink-50-tabletok.html" crc="205974712" seo="true" mt="1572771010079" redirect="true"/>
   <file name="zhenskaya-formula.html" crc="4290060863" seo="true" mt="1572771901055" redirect="true"/>
-  <file name="omega-3.html" crc="4137119082" seo="true" mt="1572772593361" redirect="true"/>
+  <file name="omega-3.html" crc="120364726" seo="true" mt="1572783923900" redirect="true"/>
   <file name="linchzhi.html" crc="383125038" seo="true" mt="1572773474960" redirect="true"/>
   <file name="spirulina.html" crc="3897602473" seo="true" mt="1572773988043" redirect="true"/>
   <file name="kordiceps-nanotekhnologicheskij.html" crc="421201390" seo="true" mt="1572782050794" redirect="true"/>
@@ -302,5 +303,5 @@
   <file name="hitozan.html" crc="20418010" seo="true" mt="1572781237771" redirect="true"/>
   <file name="kapsuly-krasnogo-risa.html" crc="287676173" seo="true" mt="1572782171777" redirect="true"/>
   <file name="kal-cij.html" crc="3807568481" seo="true" mt="1572782553148" redirect="true"/>
-  <file name="strukturizatory-vody.html" crc="64184975" seo="true" mt="1572783386718" redirect="true"/>
+  <file name="strukturizatory-vody.html" crc="326393957" seo="true" mt="1572954332795" redirect="true"/>
 </manifest>
