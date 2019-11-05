@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1572984698152">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1572985451290">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="3999514554" ref="douan"/>
@@ -80,12 +80,12 @@
     <file name="вставленное изображение 200x2502.jpg" crc="527910093" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x2503.jpg" crc="477574257" seo="true" ref="douan"/>
     <file name="вставленное изображение 200x2504.jpg" crc="9489962" seo="true" ref="douan"/>
-    <file name="вставленное изображение 215x250.jpg" crc="3781316277" seo="true" ref="modere:index"/>
-    <file name="вставленное изображение 215x2502.jpg" crc="82737972" seo="true" ref="modere:index"/>
-    <file name="вставленное изображение 215x2503.jpg" crc="3967104503" seo="true" ref="modere:index"/>
-    <file name="вставленное изображение 215x2504.jpg" crc="440248808" seo="true" ref="modere:index"/>
-    <file name="вставленное изображение 215x2505.jpg" crc="4044949591" seo="true" ref="modere:index"/>
-    <file name="вставленное изображение 215x2506.jpg" crc="266947140" seo="true" ref="modere:index"/>
+    <file name="вставленное изображение 215x250.jpg" crc="3781316277" seo="true" ref="modere"/>
+    <file name="вставленное изображение 215x2502.jpg" crc="82737972" seo="true" ref="modere"/>
+    <file name="вставленное изображение 215x2503.jpg" crc="3967104503" seo="true" ref="modere"/>
+    <file name="вставленное изображение 215x2504.jpg" crc="440248808" seo="true" ref="modere"/>
+    <file name="вставленное изображение 215x2505.jpg" crc="4044949591" seo="true" ref="modere"/>
+    <file name="вставленное изображение 215x2506.jpg" crc="266947140" seo="true" ref="modere"/>
     <file name="вставленное изображение 215x2507.jpg" crc="3761727222" seo="true" ref="modere"/>
     <file name="вставленное изображение 215x2508.jpg" crc="153483987" seo="true" ref="modere"/>
     <file name="вставленное изображение 215x2509.jpg" crc="249171990" seo="true" ref="modere"/>
@@ -254,12 +254,17 @@
     <file name="trim - vanilla.jpg" crc="328152289" seo="true" ref="modere"/>
     <file name="trim - chocolate.jpg" crc="3773502730" seo="true" ref="modere"/>
     <file name="trim - lemon.jpg" crc="3800536190" seo="true" ref="modere"/>
+    <file name="anti.jpg" crc="338051427" seo="true" ref="index"/>
+    <file name="mounrise.jpg" crc="3767550585" seo="true" ref="index"/>
+    <file name="chashka.jpg" crc="3951686645" seo="true" ref="index"/>
+    <file name="msm.jpg" crc="3770528250" seo="true" ref="index"/>
+    <file name="paraclince.jpg" crc="4005951643" seo="true" ref="index"/>
   </folder>
   <file name="douan.html" crc="4131201623" seo="true" mt="1572783450944" redirect="true"/>
   <file name="modere.html" crc="46956128" seo="true" mt="1572984104448" redirect="true"/>
   <file name="douaninfo.html" crc="4125108687" seo="true" mt="1571762154174" redirect="true"/>
   <file name="modereinfo.html" crc="518692671" seo="true" mt="1571762154174" redirect="true"/>
-  <file name="index.html" crc="523515548" seo="true" mt="1572954564918" redirect="true"/>
+  <file name="index.html" crc="303321973" seo="true" mt="1572985436871" redirect="true"/>
   <file name="aboutinfo.html" crc="4156956092" seo="true" mt="1571762154174" redirect="true"/>
   <file name="antioxidant.html" crc="45406820" seo="true" mt="1571762154174" redirect="true"/>
   <file name="msm.html" crc="3838757088" seo="true" mt="1571762154174" redirect="true"/>
