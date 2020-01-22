@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1579733554495">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1579733810508">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="3999514554" ref="douan"/>
     <file name="index.css" crc="4269440752" ref="index"/>
-    <file name="modere.css" crc="4018174812" ref="modere"/>
+    <file name="modere.css" crc="405736511" ref="modere"/>
     <file name="aboutinfo.css" crc="238302500" ref="aboutinfo"/>
     <file name="douaninfo.css" crc="429321162" ref="douaninfo"/>
     <file name="modereinfo.css" crc="4073250047" ref="modereinfo"/>
@@ -276,7 +276,7 @@
     <file name="вставленное изображение 503x373.jpg" crc="4193182117" seo="true" ref="aloe-vera"/>
   </folder>
   <file name="douan.html" crc="4131201623" seo="true" mt="1572783450944" redirect="true"/>
-  <file name="modere.html" crc="20610417" seo="true" mt="1579733461540" redirect="true"/>
+  <file name="modere.html" crc="3844079402" seo="true" mt="1579733779158" redirect="true"/>
   <file name="douaninfo.html" crc="4125108687" seo="true" mt="1571762154174" redirect="true"/>
   <file name="modereinfo.html" crc="518692671" seo="true" mt="1571762154174" redirect="true"/>
   <file name="index.html" crc="148720870" seo="true" mt="1578918102733" redirect="true"/>
