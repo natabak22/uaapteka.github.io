@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1579733810508">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1579874436260">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="3999514554" ref="douan"/>
-    <file name="index.css" crc="4269440752" ref="index"/>
+    <file name="index.css" crc="66670867" ref="index"/>
     <file name="modere.css" crc="405736511" ref="modere"/>
     <file name="aboutinfo.css" crc="238302500" ref="aboutinfo"/>
     <file name="douaninfo.css" crc="429321162" ref="douaninfo"/>
@@ -279,7 +279,7 @@
   <file name="modere.html" crc="3844079402" seo="true" mt="1579733779158" redirect="true"/>
   <file name="douaninfo.html" crc="4125108687" seo="true" mt="1571762154174" redirect="true"/>
   <file name="modereinfo.html" crc="518692671" seo="true" mt="1571762154174" redirect="true"/>
-  <file name="index.html" crc="148720870" seo="true" mt="1578918102733" redirect="true"/>
+  <file name="index.html" crc="4161274805" seo="true" mt="1579874374033" redirect="true"/>
   <file name="aboutinfo.html" crc="4156956092" seo="true" mt="1571762154174" redirect="true"/>
   <file name="antioxidant.html" crc="45406820" seo="true" mt="1571762154174" redirect="true"/>
   <file name="msm.html" crc="3838757088" seo="true" mt="1571762154174" redirect="true"/>
