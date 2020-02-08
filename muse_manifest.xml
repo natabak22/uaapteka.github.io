@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1579874436260">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1581198417251">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="3999514554" ref="douan"/>
@@ -55,7 +55,7 @@
     <file name="kapsuly-krasnogo-risa.css" crc="3944164292" ref="kapsuly-krasnogo-risa"/>
     <file name="fiber.css" crc="4018482691" ref="fiber"/>
     <file name="cellproof.css" crc="3857825340" ref="cellproof"/>
-    <file name="comment.css" crc="452314734" ref="comment"/>
+    <file name="comment.css" crc="405950913" ref="comment"/>
     <file name="aloe-vera.css" crc="3879458852" ref="aloe-vera"/>
   </folder>
   <folder name="scripts">
@@ -247,7 +247,7 @@
     <file name="вставленное изображение 447x307.jpg" crc="3941758882" seo="true" ref="kal-cij"/>
     <file name="strukturizatory-vody-favicon.ico" crc="15413847" ref="strukturizatory-vody"/>
     <file name="вставленное изображение 464x392.jpg" crc="78574801" seo="true" ref="strukturizatory-vody"/>
-    <file name="11-u18050-fr.png" crc="400549448" ref="omega-3:strukturizatory-vody:index:comment"/>
+    <file name="11-u18050-fr.png" crc="400549448" ref="omega-3:strukturizatory-vody:index"/>
     <file name="antioxidant.jpg" crc="4185678352" seo="true" ref="modere"/>
     <file name="coq10.jpg" crc="3961199069" seo="true" ref="modere"/>
     <file name="digestive enzymes.jpg" crc="394001014" seo="true" ref="modere"/>
@@ -274,6 +274,7 @@
     <file name="aloevere.jpg" crc="319230888" seo="true" ref="modere"/>
     <file name="aloe-vera-favicon.ico" crc="15413847" ref="aloe-vera"/>
     <file name="вставленное изображение 503x373.jpg" crc="4193182117" seo="true" ref="aloe-vera"/>
+    <file name="11-u42813-fr.png" crc="400549448" ref="comment"/>
   </folder>
   <file name="douan.html" crc="4131201623" seo="true" mt="1572783450944" redirect="true"/>
   <file name="modere.html" crc="3844079402" seo="true" mt="1579733779158" redirect="true"/>
@@ -329,6 +330,6 @@
   <file name="strukturizatory-vody.html" crc="326393957" seo="true" mt="1572954332795" redirect="true"/>
   <file name="cellproof.html" crc="360532665" seo="true" mt="1578910004995" redirect="true"/>
   <file name="fiber.html" crc="4282989782" seo="true" mt="1578912003191" redirect="true"/>
-  <file name="comment.html" crc="4208909569" seo="true" mt="1578923813100" redirect="true"/>
+  <file name="comment.html" crc="3817304193" seo="true" mt="1581198339564" redirect="true"/>
   <file name="aloe-vera.html" crc="4260974409" seo="true" mt="1579733410884" redirect="true"/>
 </manifest>
