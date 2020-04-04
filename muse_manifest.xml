@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1585993540156">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1585993948148">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="3999514554" ref="douan"/>
@@ -285,7 +285,7 @@
     <file name="protozymes_info.jpg" crc="4291890398" seo="true" ref="protozymes"/>
   </folder>
   <file name="douan.html" crc="4131201623" seo="true" mt="1572783450944" redirect="true"/>
-  <file name="modere.html" crc="85903975" seo="true" mt="1585991939618" redirect="true"/>
+  <file name="modere.html" crc="4133219214" seo="true" mt="1585993929256" redirect="true"/>
   <file name="douaninfo.html" crc="4125108687" seo="true" mt="1571762154174" redirect="true"/>
   <file name="modereinfo.html" crc="518692671" seo="true" mt="1571762154174" redirect="true"/>
   <file name="index.html" crc="4161274805" seo="true" mt="1579874374033" redirect="true"/>
