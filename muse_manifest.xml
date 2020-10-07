@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1600886579713">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fitoapteka.pp.ua" resolutions="1x" timestamp="1602055950729">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="douan.css" crc="3999514554" ref="douan"/>
-    <file name="index.css" crc="3890589649" ref="index"/>
+    <file name="index.css" crc="4237067947" ref="index"/>
     <file name="modere.css" crc="52162499" ref="modere"/>
     <file name="aboutinfo.css" crc="238302500" ref="aboutinfo"/>
     <file name="douaninfo.css" crc="429321162" ref="douaninfo"/>
@@ -206,7 +206,7 @@
     <file name="mouth-rinse-favicon.ico" crc="15413847" ref="mouth-rinse"/>
     <file name="вставленное изображение 514x392.jpg" crc="4076050478" seo="true" ref="mouth-rinse"/>
     <file name="вставленное изображение 501x4152.jpg" crc="22880004" seo="true" ref="digestive"/>
-    <file name="11-u8660-fr.png" crc="400549448" ref="modere:cellproof:fiber:aloe-vera:adult-multivitamin:protozymes:revitalize:go:modereinfo:index"/>
+    <file name="11-u8660-fr.png" crc="400549448" ref="modere:cellproof:fiber:aloe-vera:adult-multivitamin:protozymes:revitalize:go:modereinfo"/>
     <file name="shampoo-all-types-favicon.ico" crc="15413847" ref="shampoo-all-types"/>
     <file name="вставленное изображение 502x379.jpg" crc="305456038" seo="true" ref="shampoo-all-types"/>
     <file name="shower-gel-favicon.ico" crc="15413847" ref="shower-gel"/>
@@ -251,7 +251,7 @@
     <file name="вставленное изображение 447x307.jpg" crc="3941758882" seo="true" ref="kal-cij"/>
     <file name="strukturizatory-vody-favicon.ico" crc="15413847" ref="strukturizatory-vody"/>
     <file name="вставленное изображение 464x392.jpg" crc="78574801" seo="true" ref="strukturizatory-vody"/>
-    <file name="11-u18050-fr.png" crc="400549448" ref="omega-3:strukturizatory-vody"/>
+    <file name="11-u18050-fr.png" crc="400549448" ref="omega-3:strukturizatory-vody:index"/>
     <file name="antioxidant.jpg" crc="4185678352" seo="true" ref="modere"/>
     <file name="coq10.jpg" crc="3961199069" seo="true" ref="modere"/>
     <file name="digestive enzymes.jpg" crc="394001014" seo="true" ref="modere"/>
@@ -296,7 +296,7 @@
   <file name="modere.html" crc="287199856" seo="true" mt="1600885162654" redirect="true"/>
   <file name="douaninfo.html" crc="4125108687" seo="true" mt="1571762154174" redirect="true"/>
   <file name="modereinfo.html" crc="4186737570" seo="true" mt="1600885953115" redirect="true"/>
-  <file name="index.html" crc="4046581000" seo="true" mt="1600885728742" redirect="true"/>
+  <file name="index.html" crc="3883926490" seo="true" mt="1602055894602" redirect="true"/>
   <file name="aboutinfo.html" crc="4156956092" seo="true" mt="1571762154174" redirect="true"/>
   <file name="antioxidant.html" crc="45406820" seo="true" mt="1571762154174" redirect="true"/>
   <file name="msm.html" crc="3838757088" seo="true" mt="1571762154174" redirect="true"/>
